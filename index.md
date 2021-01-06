@@ -1,33 +1,17 @@
-## Grove, an Accountability Project
+## Welcome to Grove
 
-### Markdown
+Despite the lightning speeds of modern technology, communication between people and our leaders is still often shallow and inefficient. We’re creating a tool where citizens and our leaders can learn more about each others’ thoughts and actions, so leaders can understand how to best serve their constituents, and so citizens can regain confidence that our leaders are representing us well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why
 
-```markdown
-Syntax highlighted code block
+There's no shortage of evidence that institutional decision-making is often decoupled from the public. On many issues, there are significant discrepancies between the beliefs and values of citizens and the policies that our institutions implemement. This phenomenon might be contributing significantly to the deep deficit of trust in government, and the recent decline of democracy globally. We don't want this to happen, so we launched an endeavor to use digital technology to revamp out social technology.
 
-# Header 1
-## Header 2
-### Header 3
+### What
 
-- Bulleted
-- List
+We're building a platform where citizens can contribute their viewpoints on the issues they care about. We're going to place this infomation alongside a list of relevant actions that leaders have taken, so that everyone can see if there's a stark discrepancy between citizen opinion and leader actions. We're also leveraging this platform as a civil forum to generate new ideas, reach compromises, and forge movements, so that everyday citizens with busy lives are empowered to help change the world.
 
-1. Numbered
-2. List
+You can read a more detailed plan for our project [here](https://drive.google.com/file/d/1spyZwB-DbDNKNlOtm2hAkvy6j5_Tgs4a/view?usp=sharing). We'd love to hear your questions, feedback, or suggestions--contact aman.patel@usc.edu, or join our [Slack](https://join.slack.com/t/groveanaccoun-hnm5149/shared_invite/zt-kiajatiu-mqPHPmClMFwMa36jdSWGDg).
 
-**Bold** and _Italic_ and `Code` text
+### Who
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/groveapp/groveapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is currently being powered by a small team of volunteers. If you're interested in this work, we would love to get in contact with you. Use one of the contact methods above to reach out, and we'll find a place for you to join us.
