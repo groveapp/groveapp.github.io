@@ -4,7 +4,7 @@ Despite the lightning speeds of modern technology, communication between people 
 
 ### Why
 
-There's no shortage of evidence that institutional decision-making is often decoupled from the public. On many issues, there are significant discrepancies between the beliefs and values of citizens and the policies that our institutions implemement. This phenomenon might be contributing significantly to the deep deficit of trust in government, and the recent decline of democracy globally. We don't want this to happen, so we launched an endeavor to use digital technology to revamp out social technology.
+There's no shortage of evidence that institutional decision-making is often decoupled from the public. On many issues, there are significant discrepancies between the beliefs and values of citizens and the policies that we live under--and this phenomenon contributes to the recent deficit of trust in government and decline of democracy globally. We don't want this to happen, so we launched an endeavor to use digital technology to revamp our social technology.
 
 ### What
 
