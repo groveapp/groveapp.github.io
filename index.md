@@ -10,7 +10,9 @@ There's no shortage of evidence that institutional decision-making is often deco
 
 We're building a platform where citizens can contribute their viewpoints on the issues they care about. We're going to place this information alongside a list of relevant actions that leaders have taken, so that everyone can see if there's a stark discrepancy between citizen opinion and leader actions. We're also leveraging this platform as a civil forum to generate new ideas, reach compromises, and forge movements, so that everyday citizens with busy lives are empowered to help change the world.
 
-You can read a more detailed plan for our project [here](https://drive.google.com/file/d/1spyZwB-DbDNKNlOtm2hAkvy6j5_Tgs4a/view?usp=sharing). We'd love to hear your questions, feedback, or suggestions--you can contact **aman.patel@usc.edu**, or join our [Slack](https://join.slack.com/t/groveanaccoun-hnm5149/shared_invite/zt-kiajatiu-mqPHPmClMFwMa36jdSWGDg). You can also find us on [DemocracyLab](https://www.democracylab.org/index/?section=AboutProject&id=638), and on [GitHub](https://github.com/groveapp).
+You can read a more detailed plan for our project [here](https://drive.google.com/file/d/1spyZwB-DbDNKNlOtm2hAkvy6j5_Tgs4a/view?usp=sharing). For a more visually-pleasing graphical summary, see [this pdf](https://github.com/groveapp/groveapp.github.io/blob/main/A%20Visual%20Summary%20of%20Grove.pdf).
+
+We'd love to hear your questions, feedback, or suggestions--you can contact **aman.patel@usc.edu**, or join our [Slack](https://join.slack.com/t/groveanaccoun-hnm5149/shared_invite/zt-kiajatiu-mqPHPmClMFwMa36jdSWGDg). You can also find us on [DemocracyLab](https://www.democracylab.org/index/?section=AboutProject&id=638), and on [GitHub](https://github.com/groveapp).
 
 ### Who
 
