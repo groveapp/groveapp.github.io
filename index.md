@@ -4,11 +4,11 @@ Despite the lightning speeds of modern technology, communication between people 
 
 ### Why
 
-There's no shortage of evidence that institutional decision-making is often decoupled from the public. On many issues, there are significant discrepancies between the beliefs and values of citizens and the policies that we live under--and this phenomenon contributes to the recent deficit of trust in government and decline of democracy globally. We don't want this to happen, so we launched an endeavor to use digital technology to revamp our social technology.
+There's no shortage of evidence that institutional decision-making is often decoupled from the public. On many issues, there are significant discrepancies between the beliefs and values of people and the policies that we live under--and this phenomenon contributes to the recent deficit of trust in government and decline of democracy globally. We don't want this to happen, so we launched an endeavor to use digital technology to revamp our social technology.
 
 ### What
 
-We're building a platform where citizens can contribute their viewpoints on the issues they care about. We're going to place this information alongside a list of relevant actions that leaders have taken, so that everyone can see if there's a stark discrepancy between citizen opinion and leader actions. We're also leveraging this platform as a civil forum to generate new ideas, reach compromises, and forge movements, so that everyday citizens with busy lives are empowered to help change the world.
+We're building a platform where citizens can contribute their viewpoints on the issues they care about. We're going to place this information alongside a list of relevant actions that leaders have taken, so that everyone can see if there's a stark discrepancy between citizen opinions and leader actions. We're also leveraging this platform as a civil forum to generate new ideas, reach compromises, and forge movements, so that everyday community members with busy lives are empowered to help change the world.
 
 You can read a more detailed plan for our project [here](https://drive.google.com/file/d/1lZG2yooQQkdqciivbUMlZqJaSSl4Qgbd/view?usp=sharing). For a more visually-pleasing graphical summary, see [this pdf](https://github.com/groveapp/groveapp.github.io/blob/main/A%20Visual%20Summary%20of%20Grove.pdf).
 
