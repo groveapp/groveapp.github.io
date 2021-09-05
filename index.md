@@ -12,7 +12,7 @@ We're building a platform where citizens can contribute their viewpoints on the 
 
 You can read a more detailed plan for our project [here](https://drive.google.com/file/d/1lZG2yooQQkdqciivbUMlZqJaSSl4Qgbd/view?usp=sharing). For a more visually-pleasing graphical summary, see [this pdf](https://github.com/groveapp/groveapp.github.io/blob/main/A%20Visual%20Summary%20of%20Grove.pdf).
 
-We'd love to hear your questions, feedback, or suggestions--you can contact **aman.patel@usc.edu**, or join our [Slack](https://join.slack.com/t/groveanaccoun-hnm5149/shared_invite/zt-mau8l55v-d_kwaJZ9DoGq5cfnvPBQQw). You can also find us on [DemocracyLab](https://www.democracylab.org/index/?section=AboutProject&id=638), and on [GitHub](https://github.com/groveapp).
+We'd love to hear your questions, feedback, or suggestions--you can contact **aman.patel@usc.edu**, or join our [Slack](https://join.slack.com/t/groveanaccoun-hnm5149/shared_invite/zt-uobnx8ia-VkI1zfJR5r95y3VtDui7DQ). You can also find us on [DemocracyLab](https://www.democracylab.org/index/?section=AboutProject&id=638), and on [GitHub](https://github.com/groveapp).
 
 ### Who
 
