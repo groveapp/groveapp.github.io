@@ -1,4 +1,4 @@
-## Welcome to Grove
+## Welcome to Heard
 
 Despite the lightning speeds of modern technology, communication between people and our leaders is still often shallow and inefficient. We’re creating a tool where citizens and our leaders can learn more about each others’ thoughts and actions, so leaders can understand how to best serve their constituents, and so citizens can regain confidence that our leaders are representing us well.
 
